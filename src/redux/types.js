@@ -1,0 +1,6 @@
+export const USER_TASK = "USER_TASK"
+export const PHOTO_TASK = "PHOTO_TASK"
+export const GET_TODOS = "GET_TODOS"
+export const TAKE_POST = "TAKE_POST"
+export const TOGGLE_BAR = "TOGGLE_BAR"
+export const SET_LOADING = "SET_LOADING"
